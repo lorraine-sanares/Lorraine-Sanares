@@ -3,19 +3,28 @@
 
 🌱 My goal this year is to become technically cracked - exploring tools and frameworks outside of my university course, and building projects on a consistent basis. 
 
-<ins>🦋 My interests:</ins>
-- Data engineering; ETL and designing E2E pipelines
-- Data visualisation
-- Cloud computing and infrastructure (AWS fangirl)
-- Fontend web dev
-- Machine learning models
-
-<ins>🖋️ Currently learning:</ins>
-- Artificial Inteligence, LLM's
-- Deep Learning
+<table>
+  <tr>
+    <td><ins>🦋 My Interests:</ins></td>
+    <td><ins>🖋️ Currently Learning:</ins></td>
+  </tr>
+  <tr>
+    <td>
+      - Data engineering; ETL and designing E2E pipelines<br>
+      - Data visualization<br>
+      - Cloud computing and infrastructure (AWS fangirl)<br>
+      - Frontend web dev<br>
+      - Machine learning models
+    </td>
+    <td>
+      - Artificial Intelligence, LLMs<br>
+      - Deep Learning
+    </td>
+  </tr>
+</table>
 
 <ins>🔭 I’m currently working on:</ins>
-  - Uprading my portfolio website using Next.js, TypeScript and Tailwind CSS
+  - Upgrading my portfolio website using Next.js, TypeScript, and Tailwind CSS  
   - Creating a dashboard which displays event statistics of my uni club Women in Tech
 
 
