@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td>🦋 My Interests</td>
-    <td><\🖋️ Currently Learning</td>
+    <td>🖋️ Currently Learning</td>
   </tr>
   <tr>
     <td>
