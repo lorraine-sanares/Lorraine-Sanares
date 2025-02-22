@@ -1,8 +1,11 @@
-## Hi there 👋
+## Doing stuff with data sci and AI 💻 🎧
 ![](https://komarev.com/ghpvc/?username=Raine0554)
 <!--
 **Raine0554/Raine0554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Hi, I’m Lorraine Sanares. I’m a Student and aspiring Data Scientist based in Melbourne, Australia.
+
+As third-year Bachelor of Science student majoring in Data Science at the University of Melbourne, I specialise in extracting powerful and impacful insights from data; implementing advanced techniques in Python, SQL and Machine Learning. I use a wide range of visualisation tools to create beautiful and user-friendly visualisations. What's my story? What challenges did I face and how did I overcome them?
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
