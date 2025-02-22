@@ -1,7 +1,7 @@
 ## Doing stuff with data sci and AI 💻 🎧
 ![](https://komarev.com/ghpvc/?username=Raine0554)
 
-🌱 My goal this year is to become technically cracked and consistent. Therefore I aim to produce at least two projects a month.
+🌱 My goal this year is to become technically cracked - exploring tools and frameworks outside of my university course, and building projects on a consistent basis. 
 
 
 🔭 I’m currently working on 2 things:
