@@ -1,9 +1,13 @@
 ## Doing stuff with data sci and AI 💻 🎧
 ![](https://komarev.com/ghpvc/?username=Raine0554)
 
+🌱 My goal this year is to become technically cracked and consistent. Therefore I aim to produce at least two projects a month.
+
+
 🔭 I’m currently working on 2 things:
   - Uprading my portfolio website using Next.js, TypeScript and Tailwind CSS
   - Creating a dashboard which displays event statistics of my uni club Women in Tech
+
 
 <!--
 **Raine0554/Raine0554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
