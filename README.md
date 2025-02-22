@@ -12,6 +12,7 @@
 
 <ins>🖋️ Currently learning:</ins>
 - Artificial Inteligence, LLM's
+- Deep Learning
 
 <ins>🔭 I’m currently working on:</ins>
   - Uprading my portfolio website using Next.js, TypeScript and Tailwind CSS
