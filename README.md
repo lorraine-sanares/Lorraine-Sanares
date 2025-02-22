@@ -7,6 +7,7 @@
 - Data engineering; ETL and designing E2E pipelines
 - Data visualisation
 - Cloud computing and infrastructure (AWS fangirl)
+- Fontend web dev
 - Machine learning models
 
 <ins>🖋️ Currently learning:</ins>
