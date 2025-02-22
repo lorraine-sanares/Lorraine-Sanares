@@ -5,8 +5,8 @@
 
 <table>
   <tr>
-    <td><ins>🦋 My Interests:</ins></td>
-    <td><ins>🖋️ Currently Learning:</ins></td>
+    <td>🦋 My Interests</td>
+    <td><\🖋️ Currently Learning</td>
   </tr>
   <tr>
     <td>
