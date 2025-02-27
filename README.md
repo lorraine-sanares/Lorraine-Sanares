@@ -26,6 +26,7 @@
 <ins>🔭 I’m currently working on:</ins>
   - Upgrading my portfolio website using Next.js, TypeScript, and Tailwind CSS  
   - Creating a dashboard which displays event statistics of my uni club Women in Tech
+  - Integrating Strava REST API into running dashboard, instead of exported csv files
 
 
 <!--
