@@ -13,7 +13,7 @@
       - Data engineering; ETL and designing E2E pipelines<br>
       - Data visualization<br>
       - Cloud computing and infrastructure (AWS fangirl)<br>
-      - Frontend web dev<br>
+      - Frontend web dev, UX/UI design<br>
       - Machine learning models
     </td>
     <td>
