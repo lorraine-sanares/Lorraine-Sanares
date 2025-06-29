@@ -22,12 +22,6 @@
   </tr>
 </table>
 
-<ins>🔭 I’m currently working on:</ins>
-  - Upgrading my portfolio website using Next.js, TypeScript, and Tailwind CSS  
-  - Creating a dashboard which displays event statistics of my uni club Women in Tech
-  - Integrating Strava REST API into running dashboard, instead of exported csv files
-
-
 <!--
 **Raine0554/Raine0554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
