@@ -1,5 +1,3 @@
-## Doing stuff with data sci and AI 💻 🎧
-
 🌱 This year, I'm focused on leveling up my technical skills - exploring tools and frameworks outside of my university course, and building projects on a consistent basis. 
 
 <table>
